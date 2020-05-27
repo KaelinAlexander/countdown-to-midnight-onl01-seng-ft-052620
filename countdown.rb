@@ -1,4 +1,5 @@
 number=10
+
 def countdown(number)
   while number > 0
   puts "#{number} SECOND(S)!"
@@ -8,6 +9,7 @@ puts "HAPPY NEW YEAR!"
 end
 
 sleepnumber=10
+
 def countdown_with_sleep(sleepnumber)
   while sleepnumber > 0
   puts "#{sleepnumber} SECOND(S)!"
