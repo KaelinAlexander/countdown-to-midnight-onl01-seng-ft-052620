@@ -5,5 +5,4 @@ def countdown(number=10)
   sleep(1)
   end
 end
-countdown
 puts "HAPPY NEW YEAR!"
